@@ -17,9 +17,9 @@ Kimple DevOps Series — Central Index
 
 | Code | Project                                      | Repo                                                     | Demo                                                     | Tech                      | Status  |
 | ---- | -------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- | ------------------------- | ------- |
-| P01  | Static Landing (HTML + Tailwind)             | https://github.com/kimpleblog-devops/p01-static-landing  | https://kimpleblog-devops.github.io/p01-static-landing/  | HTML, Tailwind            | Finished  |
-| P02  | Vanilla JS Blog (LocalStorage)               | https://github.com/kimpleblog-devops/p02-vanilla-js-blog | https://kimpleblog-devops.github.io/p02-vanilla-js-blog/ | HTML, JS, Tailwind        | In Progress |
-| P03  | Express API (In-memory) + Docker + CI        | https://github.com/kimpleblog-devops/p03-express-api     | —                                                        | Node, Express, Docker, CI |         |
+| P01  | Static Landing (HTML + Tailwind)             | https://github.com/kimpleblog/P01-Static-Landing  | -     | HTML, Tailwind            | Finished  |
+| P02  | Vanilla JS Blog (LocalStorage)               | https://github.com/kimpleblog/p02-vanilla-js-blog | -     | HTML, JS, Tailwind        | Finished |
+| P03  | Express API (In-memory) + Docker + CI        | https://github.com/kimpleblog-devops/p03-express-api     | —                                                        | Node, Express, Docker, CI | In progress        |
 | P04  | Express + MongoDB (Mongoose) + Compose       | https://github.com/kimpleblog-devops/p04-express-mongo   | —                                                        | Express, MongoDB, Compose |         |
 | P05  | Auth & Security (JWT, Helmet, Rate limit)    | https://github.com/kimpleblog-devops/p05-auth-security   | —                                                        | JWT, bcrypt, Helmet       |         |
 | P06  | React Client (Vite + Tailwind)               | https://github.com/kimpleblog-devops/p06-react-client    | —                                                        | React, Vite, Tailwind     |         |
@@ -51,7 +51,7 @@ Kimple DevOps Series — Central Index
 ## แผงสถานะ (Progress Tracker)
 
 -   [x] P01 — Static Landing
--   [ ] P02 — Vanilla JS Blog
+-   [x] P02 — Vanilla JS Blog
 -   [ ] P03 — Express API + CI
 -   [ ] P04 — Express + MongoDB
 -   [ ] P05 — Auth & Security
